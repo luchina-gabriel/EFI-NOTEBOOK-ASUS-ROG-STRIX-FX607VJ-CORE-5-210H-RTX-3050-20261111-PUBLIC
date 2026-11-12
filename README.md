@@ -1,5 +1,7 @@
 # Hackintosh | Asus ROG Strix FX607VJ, Intel Core 5 210H, NVIDIA GeForce RTX 3050 6GB | macOS Tahoe 26.7.3
 
+<img width="1920" height="1200" alt="Portfolio" src="https://github.com/user-attachments/assets/a548c0c6-d242-449c-9bc8-1fbf0a350a80" />
+
 # Basic Information
 
 **macOS**: macOS Tahoe (26.7.3)
