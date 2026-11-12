@@ -1,0 +1,950 @@
+{
+  "date": "2026-11-12 15:02:11 -0300",
+  "document_type": 1,
+  "document_version": 6,
+  "branch": "rosedale-main-build",
+  "build": 603552,
+  "checksum": "6b0f0f994361fe27bcb702d9d737c70ed801cad3",
+  "commit": "ebcc98e6ce",
+  "options": {
+    "iterations": 20,
+    "cpu_workers": 0,
+    "memory_workers": 0,
+    "workload_gap": 5000
+  },
+  "platform": {
+    "os": "macOS",
+    "architecture": "x86_64",
+    "bits": 64
+  },
+  "processor_frequency": {
+    "frequencies": [
+      2192,
+      2571,
+      3686,
+      891,
+      2272,
+      1366,
+      1068,
+      1198,
+      907,
+      2988,
+      1377,
+      1919,
+      3414,
+      1129,
+      2003,
+      2429,
+      1716
+    ]
+  },
+  "runtime": 76.604113271000003,
+  "system_uuid": "8af40b9f1eb8baadb439431eea46b57808a5a068",
+  "clock": 0.0023374660000000003,
+  "uuid": "282a63798b8549f3be0fd388c0bee02f",
+  "version": "Geekbench 6.5.0",
+  "metrics": [
+    {
+      "id": 1,
+      "value": "macOS AVX2",
+      "ivalue": 0
+    },
+    {
+      "id": 2,
+      "value": "Clang 16.0.0 ",
+      "ivalue": 0
+    },
+    {
+      "id": 3,
+      "value": "macOS 26.7.3 (Build 25G342)",
+      "ivalue": 0
+    },
+    {
+      "id": 4,
+      "value": "MacBookPro16,2",
+      "ivalue": 0
+    },
+    {
+      "id": 5,
+      "value": "MacBookPro16,2",
+      "ivalue": 0
+    },
+    {
+      "id": 6,
+      "value": "Acidanthera Mac-5F9802EFE386AA28 MacBookPro16,2",
+      "ivalue": 0
+    },
+    {
+      "id": 7,
+      "value": "GenuineIntel Family 6 Model 186 Stepping 2",
+      "ivalue": 0
+    },
+    {
+      "id": 8,
+      "value": "Intel(R) Core(TM) 5 210H",
+      "ivalue": 0
+    },
+    {
+      "id": 9,
+      "value": "Intel(R) Core(TM) 5 210H",
+      "ivalue": 0
+    },
+    {
+      "id": 12,
+      "value": "8",
+      "ivalue": 8
+    },
+    {
+      "id": 13,
+      "value": "4",
+      "ivalue": 4
+    },
+    {
+      "id": 14,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 15,
+      "value": "2.68 GHz",
+      "ivalue": 2680000000
+    },
+    {
+      "id": 17,
+      "value": "32.0 KB",
+      "ivalue": 32768
+    },
+    {
+      "id": 18,
+      "value": "4",
+      "ivalue": 4
+    },
+    {
+      "id": 19,
+      "value": "48.0 KB",
+      "ivalue": 49152
+    },
+    {
+      "id": 20,
+      "value": "4",
+      "ivalue": 4
+    },
+    {
+      "id": 21,
+      "value": "1.25 MB",
+      "ivalue": 1310720
+    },
+    {
+      "id": 22,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 23,
+      "value": "12.0 MB",
+      "ivalue": 12582912
+    },
+    {
+      "id": 24,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 25,
+      "value": "0.00 B",
+      "ivalue": 0
+    },
+    {
+      "id": 26,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 27,
+      "value": "400 MHz",
+      "ivalue": 400000000
+    },
+    {
+      "id": 29,
+      "value": "16.0 GB",
+      "ivalue": 17179869184
+    },
+    {
+      "id": 30,
+      "value": "DDR4",
+      "ivalue": 0
+    },
+    {
+      "id": 31,
+      "value": "Acidanthera 2094.80.5.0.0",
+      "ivalue": 0
+    },
+    {
+      "id": 34,
+      "value": "Intel Raptor Lake-P [Intel Graphics]",
+      "ivalue": 0
+    },
+    {
+      "id": 35,
+      "value": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+      "ivalue": 0
+    },
+    {
+      "id": 38,
+      "value": "Acidanthera",
+      "ivalue": 0
+    },
+    {
+      "id": 39,
+      "value": "0x9",
+      "ivalue": 9
+    },
+    {
+      "id": 45,
+      "value": "1",
+      "ivalue": 1
+    },
+    {
+      "id": 46,
+      "value": "4 Cores",
+      "ivalue": 0
+    },
+    {
+      "id": 47,
+      "value": "4",
+      "ivalue": 4
+    },
+    {
+      "id": 74,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 75,
+      "value": "1600 MHz",
+      "ivalue": 1600
+    },
+    {
+      "id": 87,
+      "value": "3200 MT/s",
+      "ivalue": 3200
+    },
+    {
+      "id": 88,
+      "value": "Clang",
+      "ivalue": 0
+    },
+    {
+      "id": 89,
+      "value": "2680 MHz",
+      "ivalue": 2680
+    },
+    {
+      "id": 90,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 93,
+      "value": "8",
+      "ivalue": 8
+    },
+    {
+      "id": 94,
+      "value": "0x1",
+      "ivalue": 1
+    },
+    {
+      "id": 117,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21026,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21032,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21033,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21044,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21051,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21057,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21060,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21133,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21144,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21145,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21157,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21158,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21159,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21169,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 21171,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21215,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21217,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 21260,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 22001,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22003,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22005,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22006,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22010,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22020,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22022,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22045,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22058,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22061,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 22069,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 23002,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 23019,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 23020,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 23021,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 23030,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 20000,
+      "value": "sse2 sse3 pclmul fma3 sse41 aesni avx avx2 shani vaes avx-vnni",
+      "ivalue": 0
+    },
+    {
+      "id": 4000,
+      "value": "NVIDIA GeForce RTX 3050 6GB Laptop GPU (NVMTL over NVIDIA GeForce RTX 3050 6GB Laptop GPU (NVK GA107-A))",
+      "ivalue": 0
+    },
+    {
+      "id": 4001,
+      "value": "1024",
+      "ivalue": 1024
+    },
+    {
+      "id": 4002,
+      "value": "1024",
+      "ivalue": 1024
+    },
+    {
+      "id": 4003,
+      "value": "64",
+      "ivalue": 64
+    },
+    {
+      "id": 4011,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 4004,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 4005,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 4006,
+      "value": "True",
+      "ivalue": 1
+    },
+    {
+      "id": 4010,
+      "value": "False",
+      "ivalue": 0
+    },
+    {
+      "id": 4009,
+      "value": "266 MB",
+      "ivalue": 279172887
+    },
+    {
+      "id": 84,
+      "value": "",
+      "ivalue": 76604
+    },
+    {
+      "id": 85,
+      "value": "",
+      "ivalue": 77000
+    },
+    {
+      "id": 86,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 1000,
+      "value": "NVIDIA GeForce RTX 3050 6GB Laptop GPU (NVMTL over NVIDIA GeForce RTX 3050 6GB Laptop GPU (NVK GA107-A))",
+      "ivalue": 0
+    },
+    {
+      "id": 1001,
+      "value": "0x0",
+      "ivalue": 0
+    },
+    {
+      "id": 1002,
+      "value": "0x0",
+      "ivalue": 0
+    },
+    {
+      "id": 10,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 11,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 16,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 28,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 76,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 77,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 78,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 79,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 80,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 81,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 82,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 32,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 33,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 66,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 67,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 68,
+      "value": "",
+      "ivalue": 0
+    },
+    {
+      "id": 69,
+      "value": "",
+      "ivalue": 0
+    }
+  ],
+  "multicore_score": 0,
+  "score": 13817,
+  "valid": 0,
+  "sections": [
+    {
+      "name": "Metal",
+      "id": 7,
+      "score": 13817,
+      "valid": 0,
+      "workloads": [
+        {
+          "name": "Background Blur",
+          "id": 302,
+          "units": 20,
+          "threads": 1,
+          "score": 17618,
+          "factory_clock": 1.625438307,
+          "factory_runtime": 2.5595969600000004,
+          "workload_clock": 4.1850534719999999,
+          "runtime": 0.013714644368421052,
+          "runtime_warmup": 2.753045578,
+          "runtimes": [
+            0.011560745000000001,
+            0.012631355,
+            0.012318302000000001,
+            0.018152389000000001,
+            0.016128610000000002,
+            0.012817351000000001,
+            0.012526172,
+            0.016778837000000001,
+            0.013214619,
+            0.011599253,
+            0.011298674,
+            0.018497653000000003,
+            0.013299001000000001,
+            0.012820489000000001,
+            0.018312004,
+            0.013469812000000001,
+            0.012299903000000001,
+            0.011208846000000001,
+            0.011644228000000001
+          ],
+          "valid": 1,
+          "rate": 72.91475980978197,
+          "work": 1,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 2.064431151,
+          "transfer_runtime": 0.12581134999999999
+        },
+        {
+          "name": "Face Detection",
+          "id": 303,
+          "units": 20,
+          "threads": 1,
+          "score": 0,
+          "factory_clock": 14.418032331000001,
+          "factory_runtime": 1.405212691,
+          "workload_clock": 15.823258605000001,
+          "runtime": 0.015920622157894738,
+          "runtime_warmup": 0.92680245700000008,
+          "runtimes": [
+            0.016614207000000002,
+            0.017403714000000001,
+            0.018191127000000001,
+            0.016707701000000002,
+            0.017832541,
+            0.013741899,
+            0.017019050000000001,
+            0.016431580000000001,
+            0.016218105,
+            0.01633917,
+            0.016828437000000002,
+            0.016610058,
+            0.015225989000000001,
+            0.015957767000000001,
+            0.016175092000000002,
+            0.013338886000000001,
+            0.013484554000000001,
+            0.015165452000000001,
+            0.013206492
+          ],
+          "valid": 0,
+          "rate": 62.811615656874238,
+          "work": 1,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.0,
+          "transfer_runtime": 0.0
+        },
+        {
+          "name": "Horizon Detection",
+          "id": 401,
+          "units": 9,
+          "threads": 1,
+          "score": 63354,
+          "factory_clock": 22.744330166000001,
+          "factory_runtime": 0.80518846300000002,
+          "workload_clock": 23.549535736000003,
+          "runtime": 0.011930305157894738,
+          "runtime_warmup": 0.015464121000000001,
+          "runtimes": [
+            0.011666876000000001,
+            0.01162611,
+            0.011662914,
+            0.012026362000000001,
+            0.011784163,
+            0.012089073000000001,
+            0.012134707000000002,
+            0.011704062000000001,
+            0.011739830000000001,
+            0.011762472000000001,
+            0.014768966000000001,
+            0.012196611000000001,
+            0.011518885000000001,
+            0.011659290000000001,
+            0.011567988000000001,
+            0.011413109000000001,
+            0.011943055000000001,
+            0.011574065000000001,
+            0.01183726
+          ],
+          "valid": 1,
+          "rate": 1971449991.3219671,
+          "work": 23520000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 6.2713307360000003,
+          "transfer_runtime": 0.85787047200000033
+        },
+        {
+          "name": "Edge Detection",
+          "id": 406,
+          "units": 9,
+          "threads": 1,
+          "score": 74308,
+          "factory_clock": 36.776156351000004,
+          "factory_runtime": 0.279421274,
+          "workload_clock": 37.055597824000003,
+          "runtime": 0.0085435456315789485,
+          "runtime_warmup": 0.0083892790000000012,
+          "runtimes": [
+            0.0088149580000000012,
+            0.0083023220000000009,
+            0.0085234799999999999,
+            0.0084134229999999997,
+            0.008355286,
+            0.008712338,
+            0.0084215450000000008,
+            0.0083269220000000005,
+            0.0083577240000000004,
+            0.0088564360000000005,
+            0.0083843579999999997,
+            0.0083806950000000005,
+            0.0088757880000000008,
+            0.0082947339999999998,
+            0.0083455460000000006,
+            0.0082998010000000007,
+            0.0098171420000000009,
+            0.0084203760000000002,
+            0.0084244929999999999
+          ],
+          "valid": 1,
+          "rate": 2756463067.623095,
+          "work": 23549968,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 3.3456409730000001,
+          "transfer_runtime": 0.53458154800000002
+        },
+        {
+          "name": "Gaussian Blur",
+          "id": 407,
+          "units": 9,
+          "threads": 1,
+          "score": 47313,
+          "factory_clock": 46.889551209000004,
+          "factory_runtime": 0.307722516,
+          "workload_clock": 47.197287758000002,
+          "runtime": 0.011423973105263158,
+          "runtime_warmup": 0.38106445,
+          "runtimes": [
+            0.010659793000000001,
+            0.010585264,
+            0.010990343000000001,
+            0.010685478,
+            0.011256604,
+            0.011139388,
+            0.013023491000000002,
+            0.011494234000000001,
+            0.011354224000000001,
+            0.012155949000000001,
+            0.011253401000000001,
+            0.012603661,
+            0.011228911000000001,
+            0.012247021,
+            0.01051525,
+            0.011597078,
+            0.011112152,
+            0.011157919000000001,
+            0.011995328000000001
+          ],
+          "valid": 1,
+          "rate": 2061451631.8451638,
+          "work": 23549968,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.095256992000000013,
+          "transfer_runtime": 1.2500440480000004
+        },
+        {
+          "name": "Feature Matching",
+          "id": 503,
+          "units": 9,
+          "threads": 1,
+          "score": 13593,
+          "factory_clock": 54.713858875000007,
+          "factory_runtime": 0.58462916100000006,
+          "workload_clock": 55.298500160000003,
+          "runtime": 0.02230528557894737,
+          "runtime_warmup": 0.020809364,
+          "runtimes": [
+            0.024537932000000002,
+            0.020814945000000001,
+            0.021718725000000001,
+            0.021808853000000003,
+            0.022341954000000001,
+            0.022113131000000001,
+            0.022359238,
+            0.022518404000000002,
+            0.022229808,
+            0.020769340000000001,
+            0.027115394000000001,
+            0.022832388000000002,
+            0.020940189000000001,
+            0.023336385000000001,
+            0.021023162000000001,
+            0.020903081,
+            0.021028143000000003,
+            0.024646025000000002,
+            0.020763329000000001
+          ],
+          "valid": 1,
+          "rate": 535863213.12475502,
+          "work": 11952582,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 3.6120860850000001,
+          "transfer_runtime": 0.24959469000000006
+        },
+        {
+          "name": "Stereo Matching",
+          "id": 504,
+          "units": 9,
+          "threads": 1,
+          "score": 216705,
+          "factory_clock": 64.830365624000009,
+          "factory_runtime": 0.10281947800000001,
+          "workload_clock": 64.933217542000008,
+          "runtime": 0.0063435835263157894,
+          "runtime_warmup": 0.0066282070000000005,
+          "runtimes": [
+            0.0062431020000000004,
+            0.006192075,
+            0.0067052230000000006,
+            0.0062751770000000007,
+            0.0062692430000000007,
+            0.0062830500000000001,
+            0.0066347710000000002,
+            0.0061893530000000007,
+            0.0062525010000000006,
+            0.0062412330000000005,
+            0.0068814510000000002,
+            0.0066720680000000006,
+            0.006288152,
+            0.0061912440000000003,
+            0.006220972,
+            0.0062496110000000004,
+            0.0062768780000000005,
+            0.006220242,
+            0.0062417410000000003
+          ],
+          "valid": 1,
+          "rate": 206003435531.17209,
+          "work": 1306800000,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.484348946,
+          "transfer_runtime": 0.036025407000000009
+        },
+        {
+          "name": "Particle Physics",
+          "id": 601,
+          "units": 12,
+          "threads": 1,
+          "score": 114909,
+          "factory_clock": 71.378998722000006,
+          "factory_runtime": 0.08663778300000001,
+          "workload_clock": 71.46564978100001,
+          "runtime": 0.039547412263157895,
+          "runtime_warmup": 0.042911240000000003,
+          "runtimes": [
+            0.039089930000000002,
+            0.035087146999999999,
+            0.037694555000000005,
+            0.037383496000000002,
+            0.038257624000000004,
+            0.039447286000000005,
+            0.040902158000000001,
+            0.039867580999999999,
+            0.040540259000000002,
+            0.041113689000000002,
+            0.041626442,
+            0.040697591000000005,
+            0.040987142000000004,
+            0.041454331000000004,
+            0.041614788,
+            0.041505857,
+            0.039066076000000005,
+            0.037570044000000004,
+            0.037494837000000003
+          ],
+          "valid": 1,
+          "rate": 5057.2209040923435,
+          "work": 200,
+          "kernels": [],
+          "temperatures": [],
+          "thermal_state": 0,
+          "optimize_runtime": 0.89101085200000008,
+          "transfer_runtime": 0.05139186699999998
+        }
+      ]
+    }
+  ],
+  "complete_benchmark": 1,
+  "compute_api": 2,
+  "compute_platform_id": -1,
+  "compute_device_id": 0,
+  "compute_platform_name": "",
+  "compute_device_name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU (NVMTL over NVIDIA GeForce RTX 3050 6GB Laptop GPU (NVK GA107-A))"
+}
